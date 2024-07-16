@@ -1,6 +1,25 @@
 # Drug-Abuse-Exploring-the-Nexus-between-substance-Abuse-and-diverse-criminal-Activities
 Delve into the nexus of drug abuse and crime with a data-centric exploration, revealing how substance misuse fuels various criminal activities.
 
+## Table of Contents
+1. [Business Overview/Problem](#business-overviewproblem)
+   1. [A. Lack of Data Integration](#a-lack-of-data-integration)
+   2. [B. Ineffective Resource Allocation](#b-ineffective-resource-allocation)
+   3. [C. Inefficient Reporting](#c-inefficient-reporting)
+   4. [D. Lack of Predictive Capability](#d-lack-of-predictive-capability)
+2. [Aim of the Project](#aim-of-the-project)
+   1. [A. Data Integration and Validation](#a-data-integration-and-validation)
+   2. [B. Descriptive Analysis](#b-descriptive-analysis)
+   3. [C. Frequencies, Location Trends, and Drug Types Involved](#c-frequencies-location-trends-and-drug-types-involved)
+   4. [D. Trend Identification](#d-trend-identification)
+   5. [E. Location Analysis](#e-location-analysis)
+   6. [F. Data Visualization](#f-data-visualization)
+3. [Data Description](#data-description)
+4. [Data Exploration](#data-exploration)
+5. [Insights](#insights)
+6. [Dashboard](#dashboard)
+7. [Recommendations](#recommendations)
+
 ## Business Overview/Problem
 Insight Analytics Solutions has been approached by a Non-Governmental Organization eager to address a critical issue: the escalating criminal activities ostensibly linked to substance abuse. This organization has noted a marked escalation in crimes such as theft, assault, and vandalism, presumed to be connected to drug addiction within their jurisdiction. However, they find themselves without the requisite tools and insights to fully comprehend the dynamics and nuances of this alarming issue. The specific challenges they are encountering include:
 
